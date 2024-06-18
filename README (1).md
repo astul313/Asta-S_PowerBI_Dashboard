@@ -36,7 +36,7 @@ This section delves into attrition trends specific to job roles, helping identif
 - **Attrition by Monthly Income:** How does monthly income impact attrition rates?
 - **Attrition by Business Travel:** How does the frequency of business travel correlate with attrition rates?
 
-- ![Employee_Attrition2](https://github.com/astul313/Asta-S_portfolio/assets/170947124/0419dfb0-8c16-464e-b2bd-e5346382727a)
+![Employee_Attrition2](https://github.com/astul313/Asta-S_portfolio/assets/170947124/0419dfb0-8c16-464e-b2bd-e5346382727a)
 
 ### 3. Employee Insights
 This section offers a deeper understanding of employee demographics and their relation to attrition. Key questions answered include:
