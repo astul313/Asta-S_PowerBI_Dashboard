@@ -26,7 +26,7 @@ This section provides a snapshot of the overall attrition landscape within the c
 - **Female Attrition:** What is the number and percentage of female employees who have left?
 - **Male Attrition:** What is the number and percentage of male employees who have left?
 
-https://github.com/astul313/Asta-S_portfolio/issues/1#issuecomment-2175915431
+![Employee_Attrition_Dashboard (1)](https://github.com/astul313/Asta-S_portfolio/assets/170947124/4538c9fc-2eea-400a-8b9c-216f2d025f4a)
 
 
 ### 2. Job Role Analysis
