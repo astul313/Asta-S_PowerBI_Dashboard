@@ -26,6 +26,8 @@ This section provides a snapshot of the overall attrition landscape within the c
 - **Female Attrition:** What is the number and percentage of female employees who have left?
 - **Male Attrition:** What is the number and percentage of male employees who have left?
 
+- https://private-user-images.githubusercontent.com/170947124/340663426-4538c9fc-2eea-400a-8b9c-216f2d025f4a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3MTE4MTksIm5iZiI6MTcxODcxMTUxOSwicGF0aCI6Ii8xNzA5NDcxMjQvMzQwNjYzNDI2LTQ1MzhjOWZjLTJlZWEtNDAwYS04YjljLTIxNmYyZDAyNWY0YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOFQxMTUxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hODEzZDJmMTJlNmU0MWQ0Y2M0YTcxYWIwMDY5NzM1MWFlYzZlNmZlMGFiYmIyNGI2MGM0MGQ5NGMwZTdlMzFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.WNOdFqNwqthIQQQCydubHR_u8--NaCWDVitzR2XKmVg
+
 ### 2. Job Role Analysis
 This section delves into attrition trends specific to job roles, helping identify patterns and areas for improvement. Key questions answered include:
 - **Attrition by Overtime vs. Regular Hours:** How does working overtime versus regular hours affect attrition rates?
