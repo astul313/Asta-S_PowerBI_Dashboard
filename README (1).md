@@ -57,6 +57,8 @@ To facilitate tailored data analysis, the slicer page includes various filters t
 - **Gender:** How does attrition differ between male and female employees?
 - **Age Group:** What are the attrition rates across different age groups?
 
+- ![Employee_Attrition4](https://github.com/astul313/Asta-S_portfolio/assets/170947124/9018dd34-89ce-4bff-9677-a7da2cd82235)
+
 ## Conclusion
 
 This Power BI dashboard provides an all-encompassing view of HR attrition, making it an invaluable tool for identifying trends, understanding underlying factors, and informing strategic decisions to improve employee retention. Explore the interactive visualizations and insights to gain a deeper understanding of the dynamics of employee attrition in your organization. Check out the project on my GitHub portfolio to see the full implementation and explore the data-driven insights.
