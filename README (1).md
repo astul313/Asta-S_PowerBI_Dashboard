@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my HR Attrition Dashboard, created using Power BI and designed to provide comprehensive insights into employee attrition. This project, which is featured on my GitHub portfolio, addresses critical questions about employee turnover. The dashboard is structured into three main sections: Attrition Overview, Job Role Analysis, and Employee Insights, with an additional slicer page for tailored data exploration.
+Welcome to my HR Attrition Dashboard, created using Power BI and designed to provide comprehensive insights into employee attrition. This project, which is featured on my GitHub portfolio, addresses critical questions about employee turnover. The dashboard is structured into three main sections: Attrition Overview, Job Role Analysis, and Employee Insights, with an additional filters page for tailored data exploration.
 
 
 ## How to Use
@@ -48,7 +48,7 @@ This section offers a deeper understanding of employee demographics and their re
 
 - ![Employee_Attrition3](https://github.com/astul313/Asta-S_portfolio/assets/170947124/db6281e3-e44d-4043-871e-c3ae9abff157)
 
-### Slicer Page
+### Filters Page
 To facilitate tailored data analysis, the slicer page includes various filters that allow users to customize their view of the data. Key questions that can be explored include:
 - **Department:** How does attrition vary across different departments?
 - **Job Role:** How does attrition differ among various job roles?
@@ -57,8 +57,9 @@ To facilitate tailored data analysis, the slicer page includes various filters t
 - **Gender:** How does attrition differ between male and female employees?
 - **Age Group:** What are the attrition rates across different age groups?
 
-- ![Employee_Attrition4](https://github.com/astul313/Asta-S_portfolio/assets/170947124/9018dd34-89ce-4bff-9677-a7da2cd82235)
+![Attrition_Filters](https://github.com/astul313/Asta-S_portfolio/assets/170947124/0cb32aaa-fec8-456f-8065-450e5cca7f11)
+
 
 ## Conclusion
 
-This Power BI dashboard provides an all-encompassing view of HR attrition, making it an invaluable tool for identifying trends, understanding underlying factors, and informing strategic decisions to improve employee retention. Explore the interactive visualizations and insights to gain a deeper understanding of the dynamics of employee attrition in your organization. Check out the project on my GitHub portfolio to see the full implementation and explore the data-driven insights.
+This Power BI dashboard provides an all-encompassing view of HR attrition, making it an invaluable tool for identifying trends, understanding underlying factors, and informing strategic decisions to improve employee retention. 
