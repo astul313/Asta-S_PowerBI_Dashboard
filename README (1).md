@@ -1,8 +1,3 @@
-
-# Employee Attrition
-
-Sure, here is a revised version of the description with a focus on the questions answered by the dashboard:
-
 # HR Attrition Dashboard
 
 ## Overview
