@@ -4,6 +4,13 @@
 
 Welcome to my HR Attrition Dashboard, created using Power BI and designed to provide comprehensive insights into employee attrition. This project, which is featured on my GitHub portfolio, addresses critical questions about employee turnover. The dashboard is structured into three main sections: Attrition Overview, Job Role Analysis, and Employee Insights, with an additional slicer page for tailored data exploration.
 
+
+## How to Use
+
+1. Download the `.pbix` file from this repository.
+2. Open the file in Power BI Desktop.
+3. Explore the different sections and use slicers to filter the data as needed.
+
 ## Sections and Key Questions Answered
 
 ### 1. Attrition Overview
