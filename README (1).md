@@ -46,7 +46,7 @@ This section offers a deeper understanding of employee demographics and their re
 - **Average Environment Satisfaction:** How does satisfaction with the work environment impact attrition?
 - **Attrition Overview by Education:** How do different education levels and fields influence attrition rates?
 
-- ![Employee_Attrition3](https://github.com/astul313/Asta-S_portfolio/assets/170947124/db6281e3-e44d-4043-871e-c3ae9abff157)
+ ![Employee_Attrition3](https://github.com/astul313/Asta-S_portfolio/assets/170947124/db6281e3-e44d-4043-871e-c3ae9abff157)
 
 ### Filters Page
 To facilitate tailored data analysis, the slicer page includes various filters that allow users to customize their view of the data. Key questions that can be explored include:
