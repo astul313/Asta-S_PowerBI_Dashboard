@@ -4,6 +4,8 @@
 
 Welcome to my HR Attrition Dashboard, created using Power BI and designed to provide comprehensive insights into employee attrition. This project, which is featured on my GitHub portfolio, addresses critical questions about employee turnover. The dashboard is structured into three main sections: Attrition Overview, Job Role Analysis, and Employee Insights, with an additional filters page for tailored data exploration.
 
+## Data Source
+https://www.kaggle.com/datasets/shengyaoye/wa-fn-usec-hr-employee-attrition
 
 ## How to Use
 
